@@ -4,6 +4,16 @@
 <head>
 
 </head>
-<h1 align="center">	Contact	</h1>
+<<<<<<< HEAD
+<body>
+	<h1 align="center">	Contact	</h1>
+
+</body>
+=======
+	<h1 align="center">	Contact	</h1>
+	<p align="center">Name: Richard Melberson</p>
+	<p align="center">Phone number: 468 765 468</p>
+
+>>>>>>> contact-changes
 
 </html>
